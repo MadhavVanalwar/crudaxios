@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+//create git with git cli  gh repo create <reponame> --public
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

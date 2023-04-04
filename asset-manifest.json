@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crudaxios/static/css/main.25d9f191.css",
+    "main.js": "/crudaxios/static/js/main.34b2462a.js",
+    "index.html": "/crudaxios/index.html",
+    "main.25d9f191.css.map": "/crudaxios/static/css/main.25d9f191.css.map",
+    "main.34b2462a.js.map": "/crudaxios/static/js/main.34b2462a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d9f191.css",
+    "static/js/main.34b2462a.js"
+  ]
+}
